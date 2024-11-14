@@ -9,7 +9,7 @@
     "bs-fetch": "^0.3.1",
     "gentype": "^3.6.0",
     "isomorphic-unfetch": "^3.0.0",
-    "next": "^9.3.5",
+    "next": "^14.2.10",
     "next-transpile-modules": "^3.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
